@@ -1,18 +1,18 @@
 ### Hi there 👋
 
+I'm **Talut TASGIRAN**
 
+I'm a **software developer** living in **Ankara, Turkiye**, working for [Bumper](https://www.bumper.co.uk) as the **Mobile Application Developer**.
 
-<!--
-**talut/talut** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-Here are some ideas to get you started:
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=talut&show_icons=true" alt="talut" /> </p>
+I love **JavaScript**, **Go**, **Kotlin** and few other things.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🐘 [**LinkedIn**](https://linkedin.com/in/taluttasgiran)
+- 🐘 [**Twitter**](https://twitter.com/taluttasgiran)
+- 🐘 [**Medium**](https://medium.com/@talut)
+
+<img src="https://github-readme-stats.vercel.app/api?username=talut&show_icons=true&count_private=true&theme=dark" />
+
+<details>
+  <summary>More... (from work)</summary>
+  <img src="https://github-readme-stats.vercel.app/api?username=bumper-talut-tasgiran&show_icons=true&count_private=true&theme=dark" />
+</details>
