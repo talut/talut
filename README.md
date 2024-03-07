@@ -12,8 +12,3 @@ I love **JavaScript**, **Go**, **Kotlin** and a few other things.
 - 🐘 [**Medium**](https://medium.com/@talut)
 
 <img src="https://github-readme-stats.vercel.app/api?username=talut&show_icons=true&count_private=true&theme=dark" />
-
-<details>
-  <summary>More... (from work)</summary>
-  <img src="https://github-readme-stats.vercel.app/api?username=bumper-talut-tasgiran&show_icons=true&count_private=true&theme=dark" />
-</details>
